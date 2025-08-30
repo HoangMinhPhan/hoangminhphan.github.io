@@ -1,157 +1,142 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Hoang Minh Phan",
+    "label": "Doctoral researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hoangminh.phan@outlook.com",
+    "phone": "+32 497 72 62 94",
+    "url": "https://hoangminhphan.github.io",
+    "summary": "A scientist passionate about process engineering and mathematical modeling",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": "3000",
+      "city": "Leuven",
+      "countryCode": "BE",
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "hoangminhphan",
+        "url": "https://www.linkedin.com/in/hoangminhphan/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Mebios Postharvest group, KU Leuven, Belgium",
+      "position": "Doctoral researcher",
+      "url": "https://www.biw.kuleuven.be/biosyst/mebios/postharvest-group/",
+      "startDate": "2022-10",
+      "endDate": "2026-10",
+      "summary": "Developing digital twins of a cold storage system for 'Conference' pear",
+      "highlights": ["Mathematical modeling", "Postharvest technology"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Laboratory of Food Technology, HCMC University of Technology (VNU-HCM), Vietnam",
+      "position": "Research associate",
+      "startDate": "2019-10",
+      "endDate": "2020",
+      "summary": "Nutrition enrichment of cookies with dietary fiber from sugarcane bagasse",
+      "highlights": ["By-product valorization", "Product reformulation"]
+    },
+    {
+      "name": "AJINOMOTO, Vietnam",
+      "position": "Chemical engineer",
+      "url": "https://www.ajinomoto.com.vn/en",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "CapEx project management and technology transfer",
+      "highlights": ["Process design", "Safety assessment"]
     }
   ],
+  
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "KU Leuven, Belgium",
+      "location": "Heverlee, Belgium",
+      "url": "https://www.kuleuven.be/",
+      "area": "Bioscience Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-10",
+      "endDate": "2026-10",
+    },
+    {
+      "institution": "KU Leuven and Ghent University, Belgium",
+      "location": "Belgium",
+      "url": "https://www.iupfood.be/",
+      "area": "Food Technology",
+      "studyType": "Msc",
+      "startDate": "2020",
+      "endDate": "2022",
+      "score": "Magna cum laude",
+      "courses": ["Thermal processes of foods", "Low-temperature processes of foods", "Food chemistry", "Food microbiology", "HACCP and quality assurance", "Food rheology"]
+    },
+    {
+      "institution": "HCMC University of Technology (VNU-HCMC), Vietnam",
+      "location": "Vietnam",
+      "url": "https://www.hcmut.edu.vn/",
+      "area": "Food Technology",
+      "studyType": "Bsc",
+      "startDate": "2013",
+      "endDate": "2018",
+      "score": "First class (Honors program)",
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "VLIR-OUS scholarship",
+      "date": "2020",
+      "awarder": "VLIR-OUS",
+      "url": "https://www.vliruos.be/",
+      "summary": "VLIR-UOS is a Belgian program funded by the Belgian government that supports partnerships between universities and university colleges in Flanders and the South that are searching for answers to global and local challenges."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Deeplearning Learning",
+      "date": "2021-09-21",
+      "issuer": "Udacity",
+      "url": "https://www.udacity.com/certificate/CYVL9HPQ",
     },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Non-destructive internal disorder segmentation in pear fruit by X-ray radiography and AI",
+      "publisher": "Computers and Electronics in Agriculture",
+      "releaseDate": "2023",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0168169923005306",
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Building blocks for a digital twin of large cool store complexes",
+      "publisher": "26th IIR International Congress of Refrigeration",
+      "releaseDate": "2023",
+      "url": "https://iifiir.org/en/fridoc/building-blocks-for-a-digital-twin-of-large-cool-store-complexes-147426",
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Mathematical modeling",
+      "level": "Expert",
+    },
+    {
+      "name": "Programming (Python, R, MATLAB)",
+      "level": "Professional level",
+    },
+    {
+      "name": "Presentation",
+      "level": "Professional level",
+    },
+    {
+      "name": "Technical writing",
+      "level": "Professional level",
+    },
+    {
+      "name": "Project management",
+      "level": "Intermediate",
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,42 +144,45 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Food engineering",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Process design",
+        "Process optimization",
+        "Process modeling",
+      ]
+    },
+    {
+      "name": "Sustainability",
+      "keywords": [
+        "Greenhouse gas emission",
+        "Net zero",
+        "Climate change",
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Bart Nicolai",
+      "reference": "My promoter in PhD project"
     }
   ],
+  
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Digital twin of cold storage system for 'Conference' pear",
+      "summary": "improve decision-making for growers to cut down energy consumption while maintaining pear quality",
+      "highlights": ["Fruit physiology", "Mathematical modeling", "Postharvest management"],
+      "startDate": "2022",
+      "endDate": "2026",
     }
   ]
 }
