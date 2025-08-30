@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.biw.kuleuven.be/biosyst/mebios/postharvest-group'>Affiliations</a>: MebioS Postharvest group (Belgium)
+subtitle: <a href='https://www.biw.kuleuven.be/biosyst/mebios/postharvest-group'>Affiliations</a>. MebioS Postharvest group (Belgium)
 
 profile:
   align: right
