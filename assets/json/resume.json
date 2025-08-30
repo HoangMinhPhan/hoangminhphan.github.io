@@ -10,7 +10,7 @@
     "location": {
       "postalCode": "3000",
       "city": "Leuven",
-      "countryCode": "BE",
+      "countryCode": "BE"
     },
     "profiles": [
       {
@@ -48,7 +48,6 @@
       "highlights": ["Process design", "Safety assessment"]
     }
   ],
-  
   "education": [
     {
       "institution": "KU Leuven, Belgium",
@@ -57,7 +56,7 @@
       "area": "Bioscience Engineering",
       "studyType": "PhD",
       "startDate": "2022-10",
-      "endDate": "2026-10",
+      "endDate": "2026-10"
     },
     {
       "institution": "KU Leuven and Ghent University, Belgium",
@@ -68,7 +67,14 @@
       "startDate": "2020",
       "endDate": "2022",
       "score": "Magna cum laude",
-      "courses": ["Thermal processes of foods", "Low-temperature processes of foods", "Food chemistry", "Food microbiology", "HACCP and quality assurance", "Food rheology"]
+      "courses": [
+        "Thermal processes of foods",
+        "Low-temperature processes of foods",
+        "Food chemistry",
+        "Food microbiology",
+        "HACCP and quality assurance",
+        "Food rheology"
+      ]
     },
     {
       "institution": "HCMC University of Technology (VNU-HCMC), Vietnam",
@@ -78,7 +84,7 @@
       "studyType": "Bsc",
       "startDate": "2013",
       "endDate": "2018",
-      "score": "First class (Honors program)",
+      "score": "First class (Honors program)"
     }
   ],
   "awards": [
@@ -92,46 +98,46 @@
   ],
   "certificates": [
     {
-      "name": "Deeplearning Learning",
+      "name": "Deep Learning",
       "date": "2021-09-21",
       "issuer": "Udacity",
-      "url": "https://www.udacity.com/certificate/CYVL9HPQ",
-    },
+      "url": "https://www.udacity.com/certificate/CYVL9HPQ"
+    }
   ],
   "publications": [
     {
       "name": "Non-destructive internal disorder segmentation in pear fruit by X-ray radiography and AI",
       "publisher": "Computers and Electronics in Agriculture",
       "releaseDate": "2023",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0168169923005306",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0168169923005306"
     },
     {
       "name": "Building blocks for a digital twin of large cool store complexes",
       "publisher": "26th IIR International Congress of Refrigeration",
       "releaseDate": "2023",
-      "url": "https://iifiir.org/en/fridoc/building-blocks-for-a-digital-twin-of-large-cool-store-complexes-147426",
+      "url": "https://iifiir.org/en/fridoc/building-blocks-for-a-digital-twin-of-large-cool-store-complexes-147426"
     }
   ],
   "skills": [
     {
       "name": "Mathematical modeling",
-      "level": "Expert",
+      "level": "Expert"
     },
     {
       "name": "Programming (Python, R, MATLAB)",
-      "level": "Professional level",
+      "level": "Professional level"
     },
     {
       "name": "Presentation",
-      "level": "Professional level",
+      "level": "Professional level"
     },
     {
       "name": "Technical writing",
-      "level": "Professional level",
+      "level": "Professional level"
     },
     {
       "name": "Project management",
-      "level": "Intermediate",
+      "level": "Intermediate"
     }
   ],
   "languages": [
@@ -157,7 +163,7 @@
       "keywords": [
         "Process design",
         "Process optimization",
-        "Process modeling",
+        "Process modeling"
       ]
     },
     {
@@ -165,7 +171,7 @@
       "keywords": [
         "Greenhouse gas emission",
         "Net zero",
-        "Climate change",
+        "Climate change"
       ]
     }
   ],
@@ -175,14 +181,13 @@
       "reference": "My promoter in PhD project"
     }
   ],
-  
   "projects": [
     {
       "name": "Digital twin of cold storage system for 'Conference' pear",
       "summary": "improve decision-making for growers to cut down energy consumption while maintaining pear quality",
       "highlights": ["Fruit physiology", "Mathematical modeling", "Postharvest management"],
       "startDate": "2022",
-      "endDate": "2026",
+      "endDate": "2026"
     }
   ]
 }
