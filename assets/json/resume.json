@@ -99,9 +99,21 @@
   "certificates": [
     {
       "name": "Deep Learning",
-      "date": "2021-09-21",
+      "date": "2021-09",
       "issuer": "Udacity",
       "url": "https://www.udacity.com/certificate/CYVL9HPQ"
+    },
+    {
+      "name": "Time series with Python",
+      "date": "2025-04",
+      "issuer": "Datacamp",
+      "url": "https://www.datacamp.com/completed/statement-of-accomplishment/track/2d4f4905f120752e0a62dbc438af154c5decffd2"
+    },
+    {
+      "name": "MATLAB fundamentals",
+      "date": "2021-09",
+      "issuer": "Mathworks",
+      "url": "https://matlabacademy.mathworks.com/progress/share/report.html?id=a4dc6405-f73f-4f0a-8201-b6f3c227e3e4&"
     }
   ],
   "publications": [
