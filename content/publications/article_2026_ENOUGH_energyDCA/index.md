@@ -51,7 +51,7 @@ tags:
   - Cold Storage
   - Conference pear
 
-featured: false
+featured: true
 
 hugoblox:
   ids:
