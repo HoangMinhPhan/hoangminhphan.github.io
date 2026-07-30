@@ -29,6 +29,7 @@ publication_types: ['conference-paper']
 # Publication metadata — structured fields used by citation styles and BibTeX export.
 publication:
   name: "Acta Horticulturae"
+  issue: 1456
 
 
 peer_reviewed: true
