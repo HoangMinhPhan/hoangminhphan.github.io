@@ -11,7 +11,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: |
-        ### About Me
         I am a PhD researcher at **KU Leuven**, working in the **MeBioS Postharvest group** led by **[Prof. Bart Nicolai](https://www.kuleuven.be/wieiswie/en/person/00014537)**.
         My research is at the intersection of postharvest technology, food engineering, advanced predictive modeling, and applied data science to improve the sustainability of the food cold chain.
         I focus on building a **[digital twin](https://www.ibm.com/think/topics/digital-twin)** of a commercial cold storage system for pear fruit — a virtual replica of the physical system that
