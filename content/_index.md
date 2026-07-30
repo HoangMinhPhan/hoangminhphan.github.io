@@ -52,7 +52,7 @@ sections:
     design:
       # Customise alignment of biography text
       biography:
-        style: "text-align: justify; text-justify: inter-word;"
+        style: "text-align: justify; text-justify: inter-word; font-size: 0.9rem; line-height: 1.5;"
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
