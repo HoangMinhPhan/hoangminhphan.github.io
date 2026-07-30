@@ -74,14 +74,15 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   
   - block: collection
+    id: papers
     content:
-      title: Recent Publications
-      text: ''
+      title: Featured Publications
       filters:
         folders:
           - publications
-        exclude_featured: false
+        featured_only: true
     design:
-      view: citation
+      view: article-grid
+      columns: 2
 
 ---
