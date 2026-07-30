@@ -1,5 +1,5 @@
 ---
-title: 'Digitalisering van ethyleenproductie - de polsslag van kwaliteitsdynamiek (Digitalization of ethylene production - the pulse of quality dynamics)'
+title: 'Digitalization of ethylene production - the pulse of quality dynamics (Digitalisering van ethyleenproductie - de polsslag van kwaliteitsdynamiek)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
