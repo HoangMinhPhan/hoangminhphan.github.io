@@ -50,7 +50,6 @@ featured: false
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi:
 
 # Custom links
 links:
