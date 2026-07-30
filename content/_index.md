@@ -48,6 +48,8 @@ sections:
       button:
         text: Download CV
         url: uploads/cvHoangMinhPhan.pdf
+      headings:
+        about: 'About me'
 
     design:
       # Customise alignment of biography text
@@ -67,7 +69,6 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   
-
   - block: collection
     content:
       title: Recent Publications
