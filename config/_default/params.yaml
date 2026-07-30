@@ -24,7 +24,7 @@ hugoblox:
     description: "A professional site of Hoang Minh Phan where digitalization meets food system sustainability"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
