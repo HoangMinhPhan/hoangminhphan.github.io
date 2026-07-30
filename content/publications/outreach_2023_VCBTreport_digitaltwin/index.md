@@ -42,7 +42,7 @@ summary:
 tags:
   - Digital Twin
   - Cold Storage
-  - 'Conference' pear
+  - Conference pear
 
 # Display this page in the Featured widget?
 featured: false
