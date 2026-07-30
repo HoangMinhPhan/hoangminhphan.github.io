@@ -50,6 +50,9 @@ sections:
         url: uploads/cvHoangMinhPhan.pdf
 
     design:
+      # Customise alignment of biography text
+      biography:
+        style: "text-align: justify; text-justify: inter-word;"
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
