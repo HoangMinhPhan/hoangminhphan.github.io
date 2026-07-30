@@ -53,10 +53,12 @@ sections:
 
     design:
       # Customise alignment of biography text
+      css_class: '[&_.resume-biography]:!py-8'
       biography:
         style: "text-align: justify; text-justify: inter-word; font-size: 1rem; line-height: 1.5;"
       spacing:
         padding: ['0', '0', '0', '0'] # [top, right, bottom, left]
+    
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
@@ -82,5 +84,4 @@ sections:
     design:
       view: citation
 
- 
 ---
