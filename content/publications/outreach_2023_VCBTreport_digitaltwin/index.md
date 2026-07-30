@@ -1,5 +1,5 @@
 ---
-title: 'Digitale tweeling voor bewaarinfrastructuur (Digital twin for storage infrastructure)'
+title: 'Digital twin for storage infrastructure (Digitale tweeling voor bewaarinfrastructuur)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
