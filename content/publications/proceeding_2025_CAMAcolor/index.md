@@ -1,5 +1,5 @@
 ---
-title: 'Dynamic Controlled Atmosphere (DCA) Storage of `{Conference}' Pear Retains Background Color Better than Normal (CA) Storage'
+title: 'Dynamic Controlled Atmosphere (DCA) Storage of `Conference' Pear Retains Background Color Better than Normal (CA) Storage'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
