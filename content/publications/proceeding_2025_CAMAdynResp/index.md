@@ -1,5 +1,5 @@
 ---
-title: '{Dynamic Change in Respiration Rate of Conference Pear in DCA Storage: Experimental Evidence and Modeling'
+title: 'Dynamic Change in Respiration Rate of Conference Pear in DCA Storage: Experimental Evidence and Modeling'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
