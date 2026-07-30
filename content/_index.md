@@ -56,7 +56,7 @@ sections:
       biography:
         style: "text-align: justify; text-justify: inter-word; font-size: 1rem; line-height: 1.5;"
       spacing:
-        padding: ['0', '0', '2rem', '0'] # [top, right, bottom, left]
+        padding: ['0', '0', '0', '0'] # [top, right, bottom, left]
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
