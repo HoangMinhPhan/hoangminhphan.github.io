@@ -51,7 +51,7 @@ abstract: |
   temporal and spatial variations within cold rooms. This contribution will present a review of the state of the art of models that can be used 
   for the digital twin for large cool store complexes, including fully resolved as well as reduced order models of heat and mass transfer, as well 
   as kinetics models while addressing issues with uncertainty propagation at both the theoretical and applied levels. Challenges and solutions for 
-  sensor-digital twin integration are discussed.},
+  sensor-digital twin integration are discussed.
 
 # Summary. An optional shortened abstract.
 summary: 
