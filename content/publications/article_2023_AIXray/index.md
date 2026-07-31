@@ -75,6 +75,8 @@ hugoblox:
 
 # Custom links
 links:
+  - type: pdf
+    url: uploads/Astrid_Minh_XrayAL_Manuscript_revision.pdf
 
 
 # Featured image
