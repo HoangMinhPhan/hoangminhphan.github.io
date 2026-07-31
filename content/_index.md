@@ -28,10 +28,10 @@ sections:
         in food science was built at the **University of Technology (HCMUT-VNU), Vietnam**, where I earned a **B.Eng in Food Technology (First Class Honours)**. There, I developed core engineering competencies 
         in process design, quality management, and food systems.
 
-        Beyond academic research, I had worked as a **Chemical Engineer in the food industry**, leading technology transfer & CapEx projects across multiple production lines. This industry chapter gave me a
+        Beyond academic research, I worked as a **Chemical Engineer in the food industry**, leading technology transfer & CapEx projects across multiple production lines. This industry chapter gave me a
         perspective that runs from bench scale all the way to the factory floor, and a deep appreciation for what it takes to make innovation work in practice.
 
-        Outside of the professional world, I enjoy reading, watching anime, learn new things, and exploring culinary cultures around the world. My favourite Vietnamese dish is
+        Outside of the professional world, I enjoy reading, watching anime, learning new things, and exploring culinary cultures around the world. My favourite Vietnamese dish is
         [Bún Bò Huế](https://en.wikipedia.org/wiki/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF) — a bold, spicy noodle soup from Central Vietnam that I highly recommend. More broadly, noodles in all their forms are close to my
         heart. I also like staying active on the badminton court.
 
