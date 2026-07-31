@@ -43,12 +43,12 @@ funding:
     grant: "No. 101036588"
 
 abstract: |
-  Green background color is a major quality attribute of `Conference' pear (Pyrus communis) determining its commercial value. 
+  Green background color is a major quality attribute of Conference pear (Pyrus communis) determining its commercial value. 
   Proper controlled atmosphere storage can slow down yellowing of the fruit peel for several months. A storage experiment was 
-  carried out with `Conference' pears, harvested in September 2023. Pears were stored in CA conditions of 3 kPa O2 and 0.7 kPa CO2 
+  carried out with Conference pears, harvested in September 2023. Pears were stored in CA conditions of 3 kPa O2 and 0.7 kPa CO2 
   as well as dynamic controlled atmosphere (DCA) conditions. When normal CA conditions were reached, the oxygen concentration was 
   allowed to further decrease based on RQ-values measured on the whole storage volume. Tests were carried out at harvest and 
-  after 4 and 8 months of storage and shelflife at 18{$^\circ$}C. The background color was measured using a color spectrometer 
+  after 4 and 8 months of storage and shelflife at 18 $^\circ$C. The background color was measured using a color spectrometer 
   as well as with an image analysis system as CIE Lab values 8 times spread over 12 days. Besides these experiments in lab conditions, 
   trials in an industrial setting were carried out. Color was measured during shelf-life after harvest and after 5 months storage. 
   The results of the lab experiments showed that the green background color of `Conference' pear was better retained when stored in DCA conditions 
