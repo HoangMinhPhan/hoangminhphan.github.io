@@ -32,7 +32,7 @@ sections:
         perspective that runs from bench scale all the way to the factory floor, and a deep appreciation for what it takes to make innovation work in practice.
 
         Outside of the professional world, I enjoy reading, watching anime, learning new things, and exploring culinary cultures around the world. My favourite Vietnamese dish is
-        [Bún Bò Huế](https://e.vnexpress.net/news/travel/food-recipes/the-spice-of-hue-origins-of-bun-bo-4914635.html) — a bold, spicy noodle soup from Central Vietnam that I highly recommend.
+        [Bún Bò Huế](https://vietnamnomad.com/eat-drink/bun-bo-hue/) — a bold, spicy noodle soup from Central Vietnam that I highly recommend.
         More broadly, noodles in all their forms are close to my heart. I also like staying active on the badminton court.
 
         ### Research & Expertise
