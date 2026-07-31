@@ -174,15 +174,6 @@ hugoblox:
     enable: true
     # Trending/suggested search terms
     suggestions:
-      - Hoang Minh Phan
-      - Minh Phan
-      - Hoang Minh
-      - Digital Twin
-      - Postharvest
-      - Food technology
-      - Process engineering
-      - Kinetic modeling
-      - Applied AI
     # Quick action shortcuts in search modal
     quick_actions: []
 
