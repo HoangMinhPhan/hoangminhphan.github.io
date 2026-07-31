@@ -1,0 +1,189 @@
+/*
+ * ==========================================================================
+ * HOANG MINH PHAN — CUSTOM WEBSITE STYLES
+ * ==========================================================================
+ *
+ * File:
+ *   assets/css/custom.css
+ *
+ * Purpose:
+ *   This file contains CSS customizations for the website that are not
+ *   available through HugoBlox frontmatter or configuration options.
+ *
+ * Organization:
+ *   Add each new customization as a separate numbered section.
+ *   Include a short explanation of its purpose and which pages it affects.
+ *
+ * Important:
+ *   CSS is applied from top to bottom. If two rules have the same selector,
+ *   a rule written later in this file normally takes priority.
+ *
+ * Table of contents:
+ *
+ *   1. Homepage — continuous gradient
+ *   2. Homepage — typography               [reserved for future use]
+ *   3. Publication listing                 [reserved for future use]
+ *   4. Individual publication pages        [reserved for future use]
+ *   5. Responsive/mobile adjustments       [reserved for future use]
+ *
+ * Last updated:
+ *   31 July 2026
+ */
+
+
+/*
+ * ==========================================================================
+ * 1. HOMEPAGE — CONTINUOUS GRADIENT
+ * ==========================================================================
+ *
+ * Purpose:
+ *   Create one continuous gradient across every block in content/_index.md.
+ *
+ * Pages affected:
+ *   Only a page containing an element with id="homepage-bio".
+ *
+ * Required frontmatter:
+ *
+ *   - block: resume-biography-3
+ *     id: homepage-bio
+ *
+ * Individual block gradients should remain disabled:
+ *
+ *   background:
+ *     gradient_mesh:
+ *       enable: false
+ */
+
+
+/* Select the complete page-body only when the page contains #homepage-bio. */
+body:has(#homepage-bio) .page-body {
+
+  /* Use the current HugoBlox theme's normal background colour. */
+  background-color: var(--hb-color-background);
+
+  /* Create two colour regions across one continuous page background. */
+  background-image:
+
+    radial-gradient(
+      /*
+       * Primary colour position:
+       * First value  = horizontal position from the left.
+       * Second value = vertical position from the top.
+       *
+       * Examples:
+       * 15% 15% = upper-left region
+       * 50% 15% = upper-centre region
+       * 85% 15% = upper-right region
+       */
+      circle at 15% 15%,
+
+      color-mix(
+        in srgb,
+
+        /*
+         * Use the primary colour from the selected HugoBlox theme.
+         *
+         * Colour strength:
+         * 8–12%  = very subtle
+         * 15–20% = recommended
+         * 25–30% = strong
+         */
+        var(--color-primary-500) 18%,
+
+        transparent
+      ),
+
+      /*
+       * Primary colour spread:
+       * Smaller percentage = smaller colour region.
+       * Larger percentage  = wider and softer region.
+       * Suggested range: 25%–60%.
+       */
+      transparent 38%
+    ),
+
+    radial-gradient(
+      /*
+       * Secondary colour position:
+       * 85% = near the right side.
+       * 55% = slightly below the vertical middle.
+       */
+      circle at 85% 55%,
+
+      color-mix(
+        in srgb,
+
+        /*
+         * Use the secondary colour from the selected theme.
+         * Change 15% to control its strength.
+         */
+        var(--color-secondary-500) 15%,
+
+        transparent
+      ),
+
+      /* Control how widely the secondary colour spreads. */
+      transparent 42%
+    );
+
+  /* Prevent the background gradients from repeating. */
+  background-repeat: no-repeat;
+
+  /* Stretch both gradient layers over the complete homepage body. */
+  background-size:
+    100% 100%, /* Primary gradient size */
+    100% 100%; /* Secondary gradient size */
+}
+
+
+/*
+ * Make every homepage block background transparent.
+ *
+ * `.hbb-section` represents each individual homepage block.
+ * `.home-section-bg` is the background layer inside each block.
+ *
+ * This allows the continuous `.page-body` gradient to remain visible
+ * behind Biography, Featured Publications, and future homepage blocks.
+ */
+body:has(#homepage-bio) .hbb-section,
+body:has(#homepage-bio) .home-section-bg {
+  background-color: transparent !important;
+}
+
+
+/*
+ * ==========================================================================
+ * 2. HOMEPAGE — TYPOGRAPHY
+ * ==========================================================================
+ *
+ * Add future homepage font-size, line-height, heading, or text-width
+ * customizations in this section.
+ */
+
+
+/*
+ * ==========================================================================
+ * 3. PUBLICATION LISTING
+ * ==========================================================================
+ *
+ * Add future customizations for the /publications/ listing page here.
+ */
+
+
+/*
+ * ==========================================================================
+ * 4. INDIVIDUAL PUBLICATION PAGES
+ * ==========================================================================
+ *
+ * Add future customizations for publication title, abstract, metadata,
+ * tags, or spacing here.
+ */
+
+
+/*
+ * ==========================================================================
+ * 5. RESPONSIVE AND MOBILE ADJUSTMENTS
+ * ==========================================================================
+ *
+ * Add future @media rules for tablets and mobile devices here.
+ */
