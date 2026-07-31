@@ -15,9 +15,9 @@ sections:
       username: me
       text: |
         I am a PhD researcher at **KU Leuven**, working in the **MeBioS Postharvest group** led by **[Prof. Bart Nicolai](https://www.kuleuven.be/wieiswie/en/person/00014537)**.
-        My research is at the intersection of postharvest technology, food engineering, advanced predictive modeling, and applied data science to improve the sustainability of the food cold chain.
+        My research is at the intersection of postharvest technology, food engineering, advanced predictive modelling, and applied data science to improve the sustainability of the food cold chain.
         I focus on building a **[digital twin](https://www.ibm.com/think/topics/digital-twin)** of a commercial cold storage system for pear fruit — a virtual replica of the physical system that
-        enables smarter control, more accurate prediction, and systematic optimization of both **fruit quality** and **storage operations**.
+        enables smarter control, more accurate prediction, and systematic optimisation of both **fruit quality** and **storage operations**.
 
         This work is part of the [ENOUGH Project (H2020 EU)](https://enough-emissions.eu/), a European initiative driving sustainable innovation across the food sector.
 
@@ -32,14 +32,14 @@ sections:
         perspective that runs from bench scale all the way to the factory floor, and a deep appreciation for what it takes to make innovation work in practice.
 
         Outside of the professional world, I enjoy reading, watching anime, learning new things, and exploring culinary cultures around the world. My favourite Vietnamese dish is
-        [Bún Bò Huế](https://en.wikipedia.org/wiki/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF) — a bold, spicy noodle soup from Central Vietnam that I highly recommend. More broadly, noodles in all their forms are close to my
-        heart. I also like staying active on the badminton court.
+        [Bún Bò Huế](https://e.vnexpress.net/news/travel/food-recipes/the-spice-of-hue-origins-of-bun-bo-4914635.html) — a bold, spicy noodle soup from Central Vietnam that I highly recommend.
+        More broadly, noodles in all their forms are close to my heart. I also like staying active on the badminton court.
 
         ### Research & Expertise
-        - **Digital twins & predictive modeling** — food systems monitoring, quality prediction, and operational optimisation.
+        - **Digital twins & predictive modelling** — food systems monitoring, quality prediction, and operational optimisation.
         - **Postharvest technology & cold chain** — cold storage, fruit quality management, shelf life extension, and energy efficiency.
         - **Food processing & engineering** — process design, optimisation, and technology transfer.
-        - **Applied data science & AI** — machine learning, deep learning, statistical modeling, and uncertainty quantification.
+        - **Applied data science & AI** — machine learning, deep learning, statistical modelling, and uncertainty quantification.
 
         ### What Drives Me
         I believe the most meaningful progress in (agri)-food systems comes from bridging rigorous science with practical engineering. Whether through research, consultancy, or hands-on engineering, my goal is
