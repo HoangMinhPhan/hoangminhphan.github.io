@@ -8,10 +8,10 @@ main:
     url: /
     weight: 10
   - name: Publications
-    url: publications/
+    url: /publications/
     weight: 20
   - name: myCV
-    url: uploads/cvHoangMinhPhan.pdf
+    url: /uploads/cvHoangMinhPhan.pdf
     weight: 30
   # - name: Talks
   #   url: /#talks
