@@ -56,14 +56,14 @@
 
 
 /* Select the complete page-body only when the page contains #homepage-bio. */
-body:has(#homepage-bio) .page-body {
+body:has(#homepage-bio.custom-home-gradient) .page-body {
 
   /* Use the current HugoBlox theme's normal background colour. */
   background-color: var(--hb-color-background);
 
   /* Create two colour regions across one continuous page background. */
   background-image:
-
+    
     radial-gradient(
       /*
        * Primary colour position:
@@ -145,8 +145,8 @@ body:has(#homepage-bio) .page-body {
  * This allows the continuous `.page-body` gradient to remain visible
  * behind Biography, Featured Publications, and future homepage blocks.
  */
-body:has(#homepage-bio) .hbb-section,
-body:has(#homepage-bio) .home-section-bg {
+body:has(#homepage-bio.custom-home-gradient) .hbb-section,
+body:has(#homepage-bio.custom-home-gradient) .home-section-bg {
   background-color: transparent !important;
 }
 
