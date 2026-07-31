@@ -29,7 +29,7 @@ sections:
       view: citation
       columns: 1
       spacing:
-        padding: ['2rem', '0', '1rem', '0']
+        padding: ['2rem', '0', '2rem', '0']
 
   - block: collection
     id: conference-papers
@@ -45,7 +45,7 @@ sections:
       view: citation
       columns: 1
       spacing:
-        padding: ['1rem', '0', '1rem', '0']
+        padding: ['2rem', '0', '2rem', '0']
 
   - block: collection
     id: other-publications
@@ -61,6 +61,6 @@ sections:
       view: citation
       columns: 1
       spacing:
-        padding: ['1rem', '0', '1rem', '0']
+        padding: ['2rem', '0', '2rem', '0']
 ---
 
