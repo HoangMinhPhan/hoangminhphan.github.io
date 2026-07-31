@@ -7,7 +7,9 @@ type: landing
 
 sections:
   - block: resume-biography-3
-    id: homepage-bio
+
+    id: homepage-bio # Homepage marker for links and custom CSS
+    
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
@@ -53,12 +55,24 @@ sections:
         about: 'About me'
 
     design:
+      # CUSTOM GRADIENT ON:
+      # `custom-home-gradient` activates custom.css.
+      # `!py-8` preserves 2rem top/bottom padding inside the biography.
+      css_class: 'custom-home-gradient [&_.resume-biography]:!py-8'
+
+      # CUSTOM GRADIENT OFF:
+      # Replace the line above with this line.
+      # The gradient is disabled, but `!py-8` padding is preserved.
+      # `!py-8` preserves 2rem top/bottom padding inside the biography.
+      # css_class: '[&_.resume-biography]:!py-8'
+    
       # Customise alignment of biography text
-      css_class: '[&_.resume-biography]:!py-8'
       biography:
         style: "text-align: justify; text-justify: inter-word; font-size: 1rem; line-height: 1.5;"
+
+      # Outer block padding: top, right, bottom, left
       spacing:
-        padding: ['0', '0', '0', '0'] # [top, right, bottom, left]
+        padding: ['0', '0', '0', '0']
     
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
