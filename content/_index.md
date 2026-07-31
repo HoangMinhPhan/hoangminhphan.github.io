@@ -82,7 +82,7 @@ sections:
           - publications
         featured_only: true
     design:
-      view: article-grid
+      view: date-title-summary # article-grid
       columns: 2
 
 ---
