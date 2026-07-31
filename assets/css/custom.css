@@ -54,116 +54,85 @@
  *       enable: false
  */
 
-
-/* Select the complete page-body only when the page contains #homepage-bio. */
+/* Continuous gradient for the homepage.
+   Active only when #homepage-bio has `.custom-home-gradient`. */
 body:has(#homepage-bio.custom-home-gradient) .page-body {
+  background-color: var(--hb-color-background); /* Current theme background */
 
-  /* Use the current HugoBlox theme's normal background colour. */
-  background-color: var(--hb-color-background);
 
-  /* Create two colour regions across one continuous page background. */
-  background-image:
+  /* RADIAL OPTION: two separate soft colour regions */
+  --homepage-radial-gradient:
 
-    /* RADIAL GRADIENT */
     radial-gradient(
-      /*
-       * Primary colour position:
-       * First value  = horizontal position from the left.
-       * Second value = vertical position from the top.
-       *
-       * Examples:
-       * 15% 15% = upper-left region
-       * 50% 15% = upper-centre region
-       * 85% 15% = upper-right region
-       */
+      /* Shape and position: horizontal 15%, vertical 15% */
       circle at 15% 15%,
 
       color-mix(
         in srgb,
-        /*
-         * Use the primary colour from the selected HugoBlox theme.
-         *
-         * Colour strength:
-         * 8–12%  = very subtle
-         * 15–20% = recommended
-         * 25–30% = strong
-         */
+        /* Theme primary colour; 18% controls strength */
         var(--color-primary-500) 18%,
         transparent
       ),
-      /*
-       * Primary colour spread:
-       * Smaller percentage = smaller colour region.
-       * Larger percentage  = wider and softer region.
-       * Suggested range: 25%–60%.
-       */
+
+      /* Colour becomes transparent at 38%; increase for wider spread */
       transparent 38%
     ),
 
     radial-gradient(
-      /*
-       * Secondary colour position:
-       * 85% = near the right side.
-       * 55% = slightly below the vertical middle.
-       */
+      /* Second colour position: horizontal 85%, vertical 55% */
       circle at 85% 55%,
 
       color-mix(
         in srgb,
-        /*
-         * Use the secondary colour from the selected theme.
-         * Change 15% to control its strength.
-         */
+        /* Theme secondary colour; 15% controls strength */
         var(--color-secondary-500) 15%,
         transparent
       ),
-      /* Control how widely the secondary colour spreads. */
+
+      /* Increase 42% for a wider and softer colour region */
       transparent 42%
     );
 
-  
-  /* LINEAR GRADIENT */
-  linear-gradient(
-    135deg, /* Direction: upper-left to lower-right */
 
-    /* Primary theme colour at the beginning */
-    color-mix(
-      in srgb,
-      var(--color-primary-500) 18%, /* Colour strength */
-      transparent
-    ) 0%,
+  /* LINEAR OPTION: one directional colour transition */
+  --homepage-linear-gradient:
 
-    /* Normal theme background in the middle */
-    var(--hb-color-background) 50%,
+    linear-gradient(
+      /* Direction: 90deg left→right, 135deg diagonal, 180deg top→bottom */
+      135deg,
 
-    /* Secondary theme colour at the end */
-    color-mix(
-      in srgb,
-      var(--color-secondary-500) 15%, /* Colour strength */
-      transparent
-    ) 100%
-  );
+      color-mix(
+        in srgb,
+        /* Primary colour strength */
+        var(--color-primary-500) 18%,
+        transparent
+      ) 0%, /* Primary colour starts at 0% */
 
-  
-  /* Prevent the background gradients from repeating. */
-  background-repeat: no-repeat;
+      /* Normal theme background appears at the middle */
+      var(--hb-color-background) 50%,
 
-  /* Stretch both gradient layers over the complete homepage body. */
-  background-size:
-    100% 100%, /* Primary gradient size */
-    100% 100%; /* Secondary gradient size */
+      color-mix(
+        in srgb,
+        /* Secondary colour strength */
+        var(--color-secondary-500) 15%,
+        transparent
+      ) 100% /* Secondary colour finishes at 100% */
+    );
+
+
+  /* GRADIENT STYLE SWITCH
+     Uncomment only one `background-image` line. */
+
+  background-image: var(--homepage-linear-gradient); /* Linear ON */
+  /* background-image: var(--homepage-radial-gradient); */ /* Radial OFF */
+
+
+  background-repeat: no-repeat; /* Prevent tiled/repeated gradients */
+  background-size: 100% 100%;   /* Cover the complete homepage */
 }
 
 
-/*
- * Make every homepage block background transparent.
- *
- * `.hbb-section` represents each individual homepage block.
- * `.home-section-bg` is the background layer inside each block.
- *
- * This allows the continuous `.page-body` gradient to remain visible
- * behind Biography, Featured Publications, and future homepage blocks.
- */
+/* Make every homepage block transparent so the page gradient is visible. */
 body:has(#homepage-bio.custom-home-gradient) .hbb-section,
 body:has(#homepage-bio.custom-home-gradient) .home-section-bg {
   background-color: transparent !important;
