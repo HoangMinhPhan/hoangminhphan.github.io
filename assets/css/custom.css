@@ -99,10 +99,10 @@ body:has(#homepage-bio.custom-home-gradient) .page-body {
 
     linear-gradient(
       /* Direction: 90deg left→right, 135deg diagonal, 180deg top→bottom */
-      135deg,
+      135deg in oklab,
 
       color-mix(
-        in srgb,
+        in oklab, /* in srgb */
         /* Primary colour strength */
         var(--color-primary-500) 18%,
         transparent
@@ -112,7 +112,7 @@ body:has(#homepage-bio.custom-home-gradient) .page-body {
       var(--hb-color-background) 50%,
 
       color-mix(
-        in srgb,
+        in oklab, /* in srgb */
         /* Secondary colour strength */
         var(--color-secondary-500) 15%,
         transparent
