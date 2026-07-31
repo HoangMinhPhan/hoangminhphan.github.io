@@ -75,7 +75,7 @@ featured: false
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 0.17660/ActaHortic.2026.1456.23
+    doi: 10.17660/ActaHortic.2026.1456.23
 
 
 # Custom links
