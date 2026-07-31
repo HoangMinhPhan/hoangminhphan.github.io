@@ -109,7 +109,8 @@ body:has(#homepage-bio.custom-home-gradient) .page-body {
       ) 0%, /* Primary colour starts at 0% */
 
       /* Normal theme background appears at the middle */
-      var(--hb-color-background) 50%,
+      var(--hb-color-background) 45%,
+      var(--hb-color-background) 55%,
 
       color-mix(
         in oklab, /* in srgb */
