@@ -2,6 +2,7 @@
 title: "My PhD Thesis"
 summary: "My doctoral research explained for a general audience."
 type: landing
+draft: true # Change to false when the page is ready
 
 sections:
   # 1. Layperson-friendly introduction
@@ -12,9 +13,6 @@ sections:
       text: |
         Write your layperson-friendly introduction here.
 
-        Explain the problem without assuming that the reader has a scientific
-        background. Describe why the problem matters, what motivated your
-        research, and how it could benefit society or industry.
 
   # 2. Summary of the principal results
   - block: markdown
@@ -24,11 +22,6 @@ sections:
       text: |
         Summarise your main results here.
 
-        - **Result 1:** Explain the first important result.
-        - **Result 2:** Explain the second important result.
-        - **Result 3:** Explain the practical implications.
-
-        Finish by explaining the overall contribution of your PhD research.
 
   # 3. Download button for the bundled PDF
   - block: cta-card
@@ -38,7 +31,7 @@ sections:
       text: "Download the complete doctoral dissertation as a PDF."
       button:
         text: "Download Thesis"
-        url: "/thesis/phd-thesis.pdf"
+        url: "" # add "/path/to/phd-thesis.pdf"
         icon: "hero/arrow-down-tray"
         new_tab: true
 
@@ -49,17 +42,8 @@ sections:
       title: "PhD Defense"
       text: |
         Watch the recording of my PhD defense below.
+        The video recording will be added later in this block.
 
-        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-          <iframe
-            src="https://www.youtube-nocookie.com/embed/YOUTUBE_VIDEO_ID"
-            title="PhD defense of Hoang Minh Phan"
-            loading="lazy"
-            style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen>
-          </iframe>
-        </div>
 
   # 5. Photographs from the defense
   - block: gallery
@@ -68,15 +52,15 @@ sections:
       title: "Defense Moments"
       subtitle: "Photographs from my PhD defense."
       items:
-        - src: "images/defense-01.jpg"
+        - src: "" # add "images/example.jpg"
           alt: "Presenting my doctoral research"
           caption: "Presenting the main findings of my PhD research."
 
-        - src: "images/defense-02.jpg"
+        - src: "" # add "images/example.jpg"
           alt: "Discussion with the examination committee"
           caption: "Discussion with the examination committee."
 
-        - src: "images/defense-03.jpg"
+        - src: "" # add "images/example.jpg"
           alt: "After the PhD defense"
           caption: "Celebrating after the successful defense."
 
