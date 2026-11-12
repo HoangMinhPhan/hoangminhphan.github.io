@@ -2,7 +2,7 @@
 title: "My PhD Thesis"
 summary: "My doctoral research explained for a general audience."
 type: landing
-draft: false # Change to false when the page is ready
+# draft: false # Change to false when the page is ready
 
 sections:
   # 1. Layperson-friendly introduction
