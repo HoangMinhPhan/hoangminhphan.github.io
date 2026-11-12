@@ -1,7 +1,6 @@
 ---
 title: Recent & Upcoming Talks
 cms_exclude: true
-draft: true # change to false to publish the page
 #url: talk
 
 # View
