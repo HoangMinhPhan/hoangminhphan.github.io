@@ -2,6 +2,7 @@
 title: 'Projects'
 date: 2024-05-19
 type: landing
+draft: true # change to false to publish the page
 
 # Page sections
 sections:
