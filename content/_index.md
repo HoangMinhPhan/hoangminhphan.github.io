@@ -14,11 +14,11 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: |
-        I am a PhD researcher at KU Leuven, Belgium, with a background in food technology, chemical engineering, and industrial process engineering.
-        My expertise combines mathematical modelling, bioscience engineering, and applied data science to develop smarter, more efficient, and sustainable food systems.
-        My current research focuses on developing a **[digital twin](https://www.ibm.com/think/topics/digital-twin)** of a commercial fruit cold storage system
+        I am a PhD researcher in the MeBioS Postharvest research group, led by [Prof. Bart Nicolai](https://www.kuleuven.be/wieiswie/en/person/00014537), at KU Leuven, Belgium.
+        My expertise lies at the intersection of **mathematical modelling, bioscience engineering, and applied data science**, with a focus on developing smarter, more efficient, and sustainable food systems.
+        My current research focuses on developing a *[digital twin](https://www.ibm.com/think/topics/digital-twin)* of a commercial fruit cold storage system
         integrating fruit physiology, refrigeration engineering, and predictive modelling to improve fruit quality, storage efficiency, and sustainability.
-        This research is part of [ENOUGH Project (H2020 EU)](https://enough-emissions.eu/), a European initiative driving sustainable innovation across the food sector.
+        This research is part of *[ENOUGH Project (H2020 EU)](https://enough-emissions.eu/)*, a European initiative driving sustainable innovation across the food sector.
 
         Before pursuing academic research, I worked as a *Chemical Engineer in the food industry*, gaining hands-on experience in process optimisation, technology transfer,
         and industrial projects. This experience shaped my approach to research: bridging scientific understanding with practical engineering solutions.
