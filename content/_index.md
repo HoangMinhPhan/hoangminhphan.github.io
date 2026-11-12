@@ -16,7 +16,7 @@ sections:
       text: |
         I am a PhD researcher in the MeBioS Postharvest research group, led by [Prof. Bart Nicolai](https://www.kuleuven.be/wieiswie/en/person/00014537), at KU Leuven, Belgium.
         My expertise lies at the intersection of **mathematical modelling, bioscience engineering, and applied data science**, with a focus on developing smarter, more efficient,
-        and sustainable agrifood/bioproduct systems.
+        and sustainable agrifood/bio-systems.
 
         My current research focuses on developing a [*digital twin*](https://www.ibm.com/think/topics/digital-twin) of a commercial fruit cold storage system
         integrating fruit physiology, refrigeration engineering, and predictive modelling to improve fruit quality, storage efficiency, and sustainability.
