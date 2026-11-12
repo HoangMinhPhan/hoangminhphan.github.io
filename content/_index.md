@@ -20,7 +20,7 @@ sections:
         integrating fruit physiology, refrigeration engineering, and predictive modelling to improve fruit quality, storage efficiency, and sustainability.
         This research is part of [ENOUGH Project (H2020 EU)](https://enough-emissions.eu/), a European initiative driving sustainable innovation across the food sector.
 
-        Before pursuing academic research, I worked as a **Chemical Engineer in the food industry**, gaining hands-on experience in process optimisation, technology transfer,
+        Before pursuing academic research, I worked as a *Chemical Engineer in the food industry*, gaining hands-on experience in process optimisation, technology transfer,
         and industrial projects. This experience shaped my approach to research: bridging scientific understanding with practical engineering solutions.
 
         ### Research & Expertise
