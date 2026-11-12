@@ -23,22 +23,11 @@ sections:
         Summarise your main results here.
 
 
-  
-  # 3. Download PhD thesis
-  # - block: cta-button-list
-  #  id: download-thesis
-  #  content:
-  #    buttons:
-  #      - text: "Download Thesis"
-  #        url: "/uploads/_maincv.pdf" # Add your PDF URL here
-  #        icon: "hero/arrow-down-tray"
-  #        new_tab: true
     
     # 3. Download PhD thesis
   - block: markdown
     id: download-thesis
     content:
-      title: "Read the Full Thesis"
       text: |
         {{< button
           url="/uploads/_maincv.pdf"
