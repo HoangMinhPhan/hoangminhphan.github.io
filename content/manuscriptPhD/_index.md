@@ -30,7 +30,7 @@ sections:
     content:
       buttons:
         - text: "Download Thesis"
-          url: "" # Add your PDF URL here
+          url: "/uploads/_maincv.pdf" # Add your PDF URL here
           icon: "hero/arrow-down-tray"
           new_tab: true
 
