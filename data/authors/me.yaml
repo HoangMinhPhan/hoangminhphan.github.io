@@ -33,4 +33,17 @@ links:
     url: https://scholar.google.com/citations?user=ppi7J2IAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8330-0639
+education:
+  - degree: PhD in Bioscience Engineering
+    institution: KU Leuven
+    start: 2022-10
+    end: 2027-02 (expected)
+  - degree: MSc in Food Technology
+    institution: KU Leuven & Ghent University
+    start: 2020-09
+    end: 2022-07
+  - degree: BEng in Food Technology
+    institution: University of Technology (HCMUT-VNU)
+    start: 2013-09
+    end: 2018-04
 
