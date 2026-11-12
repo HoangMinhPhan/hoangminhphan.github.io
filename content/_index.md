@@ -18,9 +18,9 @@ sections:
         My expertise lies at the intersection of **mathematical modelling, bioscience engineering, and applied data science**, with a focus on developing smarter, more efficient,
         and sustainable food systems.
 
-        My current research focuses on developing a *[digital twin](https://www.ibm.com/think/topics/digital-twin)* of a commercial fruit cold storage system
+        My current research focuses on developing a [*digital twin*](https://www.ibm.com/think/topics/digital-twin) of a commercial fruit cold storage system
         integrating fruit physiology, refrigeration engineering, and predictive modelling to improve fruit quality, storage efficiency, and sustainability.
-        This research is part of *[ENOUGH Project (H2020 EU)](https://enough-emissions.eu/)*, a European initiative driving sustainable innovation across the food sector.
+        This research is part of [*ENOUGH Project (H2020 EU)*](https://enough-emissions.eu/), a European initiative driving sustainable innovation across the food sector.
 
         Before pursuing academic research, I worked as a *Chemical Engineer in the food industry*, gaining hands-on experience in process optimisation, technology transfer,
         and industrial projects. This experience shaped my approach to research: bridging scientific understanding with practical engineering solutions.
@@ -32,9 +32,8 @@ sections:
         - **Applied data science & AI** — machine learning, deep learning, statistical modelling, and uncertainty quantification.
 
         ### Beyond Research
-        Outside of the professional world, I enjoy reading, watching anime, learning new things, and exploring culinary cultures around the world. My favourite Vietnamese dish is
-        [Bún Bò Huế](https://vietnamnomad.com/eat-drink/bun-bo-hue/) — a bold, spicy noodle soup from Central Vietnam that I highly recommend.
-        More broadly, noodles in all their forms are close to my heart. I also like staying active on the badminton court.
+        Outside of work, I enjoy reading, watching anime, learning new things, exploring different cuisines, and playing badminton. My favourite Vietnamese dish
+        is [*Bún Bò Huế*](https://vietnamnomad.com/eat-drink/bun-bo-hue/), a spicy noodle soup from Central Vietnam. More broadly, noodles in all their forms are close to my heart.
 
     # Show a call-to-action button under your biography? (optional)
       button:
