@@ -5,26 +5,16 @@ type: landing
 # draft: false # Change to false when the page is ready
 
 sections:
-  # 1. Layperson-friendly introduction
+  # Layperson-friendly introduction
   - block: markdown
     id: introduction
     content:
-      title: "My PhD in Simple Terms"
+      title: "My PhD in a Nutshell"
       text: |
         Write your layperson-friendly introduction here.
 
 
-  # 2. Summary of the principal results
-  - block: markdown
-    id: results
-    content:
-      title: "What I Discovered"
-      text: |
-        Summarise your main results here.
-
-
-    
-    # 3. Download PhD thesis
+    # Download PhD thesis
   - block: markdown
     id: download-thesis
     content:
@@ -37,22 +27,22 @@ sections:
           icon="arrow-down-tray"
           new_tab="true"
         >}}
-        Download Thesis
+        Download my thesis
         {{< /button >}}
 
 
 
-  # 4. Embedded YouTube defense video
+  # Embedded YouTube defense video
   - block: markdown
     id: defense-video
     content:
-      title: "PhD Defense"
+      title: "Watch my PhD Defense"
       text: |
         Watch the recording of my PhD defense below.
         The video recording will be added later in this block.
 
 
-  # 5. Photographs from the defense
+  # Photographs from the defense
   - block: gallery
     id: defense-photos
     content:
