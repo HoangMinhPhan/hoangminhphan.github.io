@@ -50,7 +50,7 @@ sections:
     # Show a call-to-action button under your biography? (optional)
       button:
         text: Download myCV
-        url: uploads/cvHoangMinhPhan.pdf
+        url: uploads/_maincv.pdf
       headings:
         about: 'About me'
 
