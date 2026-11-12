@@ -37,16 +37,13 @@ education:
   - degree: PhD in Bioscience Engineering
     institution: KU Leuven
     year: 2022-Present
-    # start: 2022-10
-    # end: 2027-02 (expected)
+    icon: custom/kul_sedes
   - degree: MSc in Food Technology
     institution: KU Leuven & Ghent University
     year: 2020-2022
-    # start: 2020-09
-    # end: 2022-07
+    icon: custom/iupfood
   - degree: BEng in Food Technology
     institution: University of Technology (HCMUT-VNU)
     year: 2013-2018
-    # start: 2013-09
-    # end: 2018-04
+    icon: custom/hcmut
 
