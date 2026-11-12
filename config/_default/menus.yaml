@@ -14,7 +14,7 @@ main:
     url: uploads/_maincv.pdf
     weight: 30
   - name: myPhD
-    url: /manuscriptPhD/
+    url: /myPhD/
     weight: 40
   # - name: Talks
   #   url: /#talks
