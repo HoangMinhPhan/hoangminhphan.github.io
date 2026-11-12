@@ -23,17 +23,17 @@ sections:
         Summarise your main results here.
 
 
-  # 3. Download button for the bundled PDF
-  - block: cta-card
+  
+  # 3. Download PhD thesis
+  - block: cta-button-list
     id: download-thesis
     content:
-      title: "Read the Full Thesis"
-      text: "Download the complete doctoral dissertation as a PDF."
-      button:
-        text: "Download Thesis"
-        url: "" # add "/path/to/phd-thesis.pdf"
-        icon: "hero/arrow-down-tray"
-        new_tab: true
+      buttons:
+        - text: "Download Thesis"
+          url: "" # Add your PDF URL here
+          icon: "hero/arrow-down-tray"
+          new_tab: true
+
 
   # 4. Embedded YouTube defense video
   - block: markdown
